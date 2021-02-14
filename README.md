@@ -7,7 +7,8 @@
 <li>GPU: Gigabyte Nvidia GT 730 GDDR5</li>
 <li>SSD: Samsung Evo plus 250GB Nvme m.2</li>
 <li>Wifi/Bluetooth: Intel® Wi-Fi 9260 / Intel Bluetooth 5.0</li>
-<li>Case / PSU: CASE Cooler Master Master MB511-TG-W.Power Supply Cooler Master 600W 80+ Elite V4</li>
+<li>Case / PSU: CASE Cooler Master Master MB511-TG-W.
+<br>Power Supply Cooler Master 600W 80+ Elite V4</li>
 </ul>
 
 <div>
@@ -19,7 +20,6 @@
 <hr>
 <h3>Installation Steps:</h3>
 All the required steps are from the official open core guide, please follow it if you need to get the best results, these files only to help you as a simple guide, please use your own if you faced any issues or you have any other hardware.
-—
 
 <h3>Bios Settings</h3>
 <b>Disable:</b>
