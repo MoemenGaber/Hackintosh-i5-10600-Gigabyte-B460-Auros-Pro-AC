@@ -16,7 +16,7 @@
 </div>
 
 <h3>Bootloader:</h3>
-<b>Opencore 0.6.6 — iMac 20,1</b>
+<b>Opencore 0.7.3 — iMac 20,1</b>
 <hr>
 <h3>Installation Steps:</h3>
 All the required steps are from the official open core guide, please follow it if you need to get the best results, these files only to help you as a simple guide, please use your own if you faced any issues or you have any other hardware.
